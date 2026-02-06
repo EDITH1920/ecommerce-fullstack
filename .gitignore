@@ -1,0 +1,13 @@
+# Node
+node_modules
+.env
+
+# Expo
+.expo
+web-build
+
+# OS
+.DS_Store
+
+# Logs
+npm-debug.log*
