@@ -1,13 +1,23 @@
 # Node
 node_modules
-.env
+package-lock.json
+yarn.lock
 
-# Expo
+# Environment
+.env
+.env.local
+.env.production
+
+# Build
+dist
+build
 .expo
-web-build
+.next
 
 # OS
 .DS_Store
+Thumbs.db
 
 # Logs
-npm-debug.log*
+logs
+*.log
